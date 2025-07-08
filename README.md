@@ -1,4 +1,4 @@
- Nike Sales Price Analysis
+# Nike Sales Price Analysis
 This project provides a detailed exploratory data analysis (EDA) of Nike product sales, focusing on sales price trends, pricing strategies, and market insights. The goal is to uncover patterns and relationships within the dataset that can support better decision-making in pricing and inventory strategies.
 
 The notebook walks through data cleaning, feature analysis, and visualization to help understand what factors influence sales prices and how product attributes (like type, release date, or category) correlate with pricing outcomes.
